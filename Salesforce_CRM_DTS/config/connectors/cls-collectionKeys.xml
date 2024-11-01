@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="ConnectorServices:Salesforce_53_Basic_Query_CRM_Accounts" connectorServiceName="ConnectorServices:Salesforce_53_Basic_Query_CRM_Accounts"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
