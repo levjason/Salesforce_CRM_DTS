@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<services/>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="ConnectorServices:jfl_query" connectorServiceName="ConnectorServices:jfl_query"/>
+            <keyDetails collectionKey="ConnectorServices:kmat_query" connectorServiceName="ConnectorServices:kmat_query"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
